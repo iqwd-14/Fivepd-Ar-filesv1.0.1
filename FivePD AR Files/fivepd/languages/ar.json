@@ -52,7 +52,7 @@
             }
 		},
 		"code4":{
-			"title":"<FONT FACE = 'A9eelsh'>g~4~ ﺩﻮﻛ [ﻍﻼﺑ]",
+			"title":"<FONT FACE = 'A9eelsh'>~g~4 ﺩﻮﻛ [ﻍﻼﺑ]",
             "description":"<FONT FACE = 'A9eelsh'>Complete the callout"
 		},
 		"cancel_assistance":{
@@ -71,7 +71,7 @@
 		"engine": "<FONT FACE = 'A9eelsh'>ﻼﻐﺘﺸﻣ ﻙﺮﺤﻤﻟﺍ ﻖﺑﺍ",
 		"cc": {
 			"title": "<FONT FACE = 'A9eelsh'>ﺔﻋﺮﺴﻟﺍ ﺖﺒﺜﻣ ﻞﻴﻌﻔﺗ",
-			"description": "<FONT FACE = 'A9eelsh'>B ﻮﻫ ﺖﺒﺜﻤﻠﻟ ﻲﺿﺍﺮﺘﻓﻻﺍ ﺭﺰﻟﺍ"
+			"description": "<FONT FACE = 'A9eelsh'>ctrl ﻮﻫ ﺖﺒﺜﻤﻠﻟ ﻲﺿﺍﺮﺘﻓﻻﺍ ﺭﺰﻟﺍ"
 		},
 		"vehicleSpawn": "<FONT FACE = 'A9eelsh'>ﺔﺒﻛﺮﻣ ﺝﺍﺮﺧﺍ",
 		"loadout": "<FONT FACE = 'A9eelsh'>ﺩﺎﺘﻌﻟﺍ ﺝﺍﺮﺧﺍ",
